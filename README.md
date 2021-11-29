@@ -2,13 +2,7 @@
 
 ## Workshop Resources 
 
-- Login/Sign Up for IBM Cloud: https://ibm.biz/ddc-emea
-  
-- Hands-On Guide: https://ibm.biz/CodeEngine-AI
-
-- Slides: https://ibm.biz/CodeEngine-AI-Slides
-
-- Workshop Replay: https://www.crowdcast.io/e/ddc-emea
+- Login/Sign Up for IBM Cloud: http://ibm.biz/jtcloud
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -23,9 +17,9 @@
   
 ## **Sign-up/Login to IBM Cloud**
 
-If you are an existing user please [login to IBM Cloud](<PUT TRACK LINK HERE>)
+If you are an existing user please [login to IBM Cloud](http://ibm.biz/jtcloud)
 
-And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](https://ibm.biz/ddc-emea): <br>
+And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](http://ibm.biz/jtcloud): <br>
 1- Put your email and password. <br>
 2- You get a verification link with the registered email to verify your account. <br>
 3- Fill the personal information fields. <br>
@@ -35,7 +29,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 ## Learning objective
 
-This tutorial explains how to use the <a href="https://ibm.biz/ddc-emea" target="_blank" rel="noopener noreferrer">IBM Cloud Code Engine</a> managed serverless platform system to deploy the Model Asset Exchange (MAX). Let's get started!
+This tutorial explains how to use the <a href="http://ibm.biz/jtcloud" target="_blank" rel="noopener noreferrer">IBM Cloud Code Engine</a> managed serverless platform system to deploy the Model Asset Exchange (MAX). Let's get started!
 
 ## Prerequisites
 
@@ -43,8 +37,8 @@ If you are not familiar with the Model Asset Exchange, this [introductory articl
 
 Additionally, you need the following:
 
-* An <a href="https://ibm.biz/ddc-emea" target="_blank" rel="noopener noreferrer">IBM Cloud account</a>.
-* The IBM Cloud command-line interface (CLI), which you can access by using <a href="https://ibm.biz/ddc-emea" target="_blank" rel="noopener noreferrer">IBM Cloud Shell</a>.
+* An <a href="http://ibm.biz/jtcloud" target="_blank" rel="noopener noreferrer">IBM Cloud account</a>.
+* The IBM Cloud command-line interface (CLI), which you can access by using <a href="http://ibm.biz/jtcloud" target="_blank" rel="noopener noreferrer">IBM Cloud Shell</a>.
 
 ## Estimated time
 
@@ -63,7 +57,7 @@ Once you deploy MAX using either of these methods, you verify that you can use t
 
 First, you need to create a project. Code Engine applications must be tied to a specific project.
 
-1. Open <a href="hhttps://ibm.biz/ddc-emea" target="_blank" rel="noopener noreferrer">IBM Cloud Shell</a>.
+1. Open <a href="http://ibm.biz/jtcloud" target="_blank" rel="noopener noreferrer">IBM Cloud Shell</a>.
 1. Before running any Code Engine commands, target a resource group. (This will vary depending on your resource group name; mine is default.)
 
    ```
@@ -110,7 +104,7 @@ First, you need to create a project. Code Engine applications must be tied to a 
 
 The steps for deploying with the Code Engine GUI are as short as its CLI equivalent.
 
-Go to the <a href="https://ibm.biz/ddc-emea" target="_blank" rel="noopener noreferrer">Code Engine overview page</a> after logging into IBM Cloud. Enter `quay.io/codait/max-object-detector` into the **Run a container image** text box and click **Start creating**.
+Go to the <a href="http://ibm.biz/jtcloud" target="_blank" rel="noopener noreferrer">Code Engine overview page</a> after logging into IBM Cloud. Enter `quay.io/codait/max-object-detector` into the **Run a container image** text box and click **Start creating**.
 
 ![run a container image](images/1.jpg)
 
@@ -145,13 +139,10 @@ With Code Engine running the application, you can now interact with the web app 
 
 This tutorial illustrates how to deploy a model container from the Model Asset Exchange to the cloud with IBM Cloud Code Engine by following two easy steps: creating a project and deploying the MAX application.
 
-- Login/Sign Up for IBM Cloud: https://ibm.biz/ddc-emea 
+- Login/Sign Up for IBM Cloud: http://ibm.biz/jtcloud 
 
 - Hands-On Guide: https://ibm.biz/CodeEngine-AI
 
-- Slides: https://ibm.biz/CodeEngine-AI-Slides
-
-- Workshop Replay: https://www.crowdcast.io/e/ddc-emea
 
 
 ## Reference Links
@@ -170,6 +161,20 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
 
 - [Code Engine Sample Apps](https://github.com/IBM/CodeEngine)
 
-## Authors
-- [Fawaz Siddiqi](https://linktr.ee/thefaz)
-- [EreN Akbaba](https://www.linkedin.com/in/erenakbaba/)
+2nd December- 6PM-8PM (GMT+4)
+
+Monitor and Secure your Flask application on the Cloud
+
+https://www.crowdcast.io/e/journeytocloud3
+
+6th December- 6PM-8PM (GMT+4)
+
+Create a Credit Analysis classification model with little to no code.
+
+https://www.crowdcast.io/e/journeytocloud4
+
+8th December- 6PM-8PM (GMT+4)
+
+Predict your insurance premium cost from your web application.
+
+https://www.crowdcast.io/e/journeytocloud5
