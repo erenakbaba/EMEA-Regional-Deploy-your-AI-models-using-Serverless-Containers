@@ -161,6 +161,8 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
 
 - [Code Engine Sample Apps](https://github.com/IBM/CodeEngine)
 
+
+##Links to the next sessions in "Journey to Cloud"
 2nd December- 6PM-8PM (GMT+4)
 
 Monitor and Secure your Flask application on the Cloud
